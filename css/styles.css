@@ -101,6 +101,17 @@
         margin-right: 30px;
     }
     
+    .img-work {
+        height: 50%;
+        width: 70%;
+    }
+
+    .info-dele{
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.5em;
+    }
+
     .BUTTON_ANC {
         background: #3DEDF6;
         background-image: -webkit-linear-gradient(top, #3DEDF6, #1ED0D0);
